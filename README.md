@@ -1,0 +1,1 @@
+Weather Api using res.send
